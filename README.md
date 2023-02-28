@@ -1,6 +1,6 @@
 # Review People App
 
----
+--- 
 ![img](imgs/1.png)
 ![img](imgs/2.png)
 ![img](imgs/3.png)
